@@ -1,5 +1,5 @@
 # (DISREGARDED) NER Pipeline with Word2Vec
-This README is for a disregarded version of a Named Entity Recognition (NER) pipeline using Word2Vec and SpaCy. This version attempted to integrate Word2Vec embeddings into a SpaCy-based NER model but was eventually abandoned in favor of more efficient solutions.
+This `README.md` is for a disregarded version of a Named Entity Recognition (NER) pipeline using Word2Vec and SpaCy. This version attempted to integrate Word2Vec embeddings into a SpaCy-based NER model but was eventually abandoned in favor of more efficient solutions.
 
 # Overview
 This project was an early attempt to create an NER model that leveraged Word2Vec embeddings for word representation. The goal was to extract specific entities from academic-related text, such as Professors, Classes, Sections, and Times. Although this version aimed to enhance entity recognition through dense vector embeddings, it was ultimately disregarded due to complexity and performance trade-offs.
