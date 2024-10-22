@@ -1,0 +1,512 @@
+[
+  {
+    "text": "When is AAS 1 with Dr. Nojan?",
+    "entities": [
+      { "start": 8, "end": 12, "label": "SECTION" },
+      { "start": 18, "end": 27, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "I need the time for ADV 124 section 1.",
+    "entities": [{ "start": 20, "end": 28, "label": "SECTION" }]
+  },
+  {
+    "text": "Is Dr. David Ocampo teaching AFAM 20?",
+    "entities": [
+      { "start": 6, "end": 18, "label": "PROFESSOR" },
+      { "start": 33, "end": 39, "label": "SECTION" }
+    ]
+  },
+  {
+    "text": "AE 150 classes with Professor Williams?",
+    "entities": [
+      { "start": 0, "end": 6, "label": "SECTION" },
+      { "start": 26, "end": 45, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "What time is AMS 2 with Nojan?",
+    "entities": [
+      { "start": 13, "end": 18, "label": "SECTION" },
+      { "start": 24, "end": 29, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "When is AE 101 taught by Professor Ocampo?",
+    "entities": [
+      { "start": 8, "end": 14, "label": "SECTION" },
+      { "start": 27, "end": 44, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Is ADV 101 taught on Thursdays?",
+    "entities": [{ "start": 3, "end": 10, "label": "SECTION" }]
+  },
+  {
+    "text": "Who is teaching AAS 33 this fall?",
+    "entities": [{ "start": 16, "end": 23, "label": "SECTION" }]
+  },
+  {
+    "text": "What section is AE 121 with Ocampo?",
+    "entities": [
+      { "start": 14, "end": 20, "label": "SECTION" },
+      { "start": 26, "end": 32, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "ADV 201 with Dr. Ocampo?",
+    "entities": [
+      { "start": 0, "end": 7, "label": "SECTION" },
+      { "start": 13, "end": 21, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "When is AAS 1 with Dr. Nojan?",
+    "entities": [
+      { "start": 8, "end": 12, "label": "SECTION" },
+      { "start": 18, "end": 27, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "I need the time for ADV 124 section 1.",
+    "entities": [{ "start": 20, "end": 28, "label": "SECTION" }]
+  },
+  {
+    "text": "Is Dr. David Ocampo teaching AFAM 20?",
+    "entities": [
+      { "start": 6, "end": 18, "label": "PROFESSOR" },
+      { "start": 33, "end": 39, "label": "SECTION" }
+    ]
+  },
+  {
+    "text": "AE 150 classes with Professor Williams?",
+    "entities": [
+      { "start": 0, "end": 6, "label": "SECTION" },
+      { "start": 26, "end": 45, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "What time is AMS 2 with Nojan?",
+    "entities": [
+      { "start": 13, "end": 18, "label": "SECTION" },
+      { "start": 24, "end": 29, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "When is AE 101 taught by Professor Ocampo?",
+    "entities": [
+      { "start": 8, "end": 14, "label": "SECTION" },
+      { "start": 27, "end": 44, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Is ADV 101 taught on Thursdays?",
+    "entities": [{ "start": 3, "end": 10, "label": "SECTION" }]
+  },
+  {
+    "text": "Who is teaching AAS 33 this fall?",
+    "entities": [{ "start": 16, "end": 23, "label": "SECTION" }]
+  },
+  {
+    "text": "What section is AE 121 with Ocampo?",
+    "entities": [
+      { "start": 14, "end": 20, "label": "SECTION" },
+      { "start": 26, "end": 32, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "ADV 201 with Dr. Ocampo?",
+    "entities": [
+      { "start": 0, "end": 7, "label": "SECTION" },
+      { "start": 13, "end": 21, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "I'm looking for AFAM 10 with David Ocampo.",
+    "entities": [
+      { "start": 16, "end": 23, "label": "SECTION" },
+      { "start": 29, "end": 41, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Can you tell me when AE 123 is?",
+    "entities": [{ "start": 19, "end": 25, "label": "SECTION" }]
+  },
+  {
+    "text": "Which professor teaches AMS 101?",
+    "entities": [{ "start": 27, "end": 34, "label": "SECTION" }]
+  },
+  {
+    "text": "ADV 330 with Dr. Smith",
+    "entities": [
+      { "start": 0, "end": 7, "label": "SECTION" },
+      { "start": 13, "end": 22, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "When is Professor Nojan teaching AAS 10?",
+    "entities": [
+      { "start": 8, "end": 24, "label": "PROFESSOR" },
+      { "start": 33, "end": 39, "label": "SECTION" }
+    ]
+  },
+  {
+    "text": "I want to take AMS 15 with Professor Davis.",
+    "entities": [
+      { "start": 14, "end": 20, "label": "SECTION" },
+      { "start": 26, "end": 43, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "When does AFAM 22 start?",
+    "entities": [{ "start": 10, "end": 17, "label": "SECTION" }]
+  },
+  {
+    "text": "Is Professor Ocampo teaching AE 103?",
+    "entities": [
+      { "start": 3, "end": 20, "label": "PROFESSOR" },
+      { "start": 31, "end": 37, "label": "SECTION" }
+    ]
+  },
+  {
+    "text": "Can I register for AAS 112?",
+    "entities": [{ "start": 20, "end": 27, "label": "SECTION" }]
+  },
+  {
+    "text": "ADV 101 with Professor Johnson",
+    "entities": [
+      { "start": 0, "end": 7, "label": "SECTION" },
+      { "start": 13, "end": 30, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "I need the time for AFAM 10.",
+    "entities": [{ "start": 20, "end": 27, "label": "SECTION" }]
+  },
+  {
+    "text": "Is AE 150 available on Mondays?",
+    "entities": [{ "start": 3, "end": 9, "label": "SECTION" }]
+  },
+  {
+    "text": "Who's teaching AAS 22 this semester?",
+    "entities": [{ "start": 15, "end": 22, "label": "SECTION" }]
+  },
+  {
+    "text": "Is there space in AMS 101 with Dr. Miller?",
+    "entities": [
+      { "start": 18, "end": 25, "label": "SECTION" },
+      { "start": 31, "end": 41, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Can you tell me when Professor Davis teaches ADV 201?",
+    "entities": [
+      { "start": 20, "end": 36, "label": "PROFESSOR" },
+      { "start": 46, "end": 53, "label": "SECTION" }
+    ]
+  },
+  {
+    "text": "What time is AAS 112?",
+    "entities": [{ "start": 13, "end": 20, "label": "SECTION" }]
+  },
+  {
+    "text": "Professor Williams is teaching AE 101 this fall.",
+    "entities": [
+      { "start": 0, "end": 18, "label": "PROFESSOR" },
+      { "start": 32, "end": 38, "label": "SECTION" }
+    ]
+  },
+  {
+    "text": "Is AFAM 45 with Professor Smith full?",
+    "entities": [
+      { "start": 3, "end": 10, "label": "SECTION" },
+      { "start": 16, "end": 33, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "When is AMS 25 with Dr. Johnson?",
+    "entities": [
+      { "start": 8, "end": 14, "label": "SECTION" },
+      { "start": 20, "end": 31, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "I want to take AE 104 next semester.",
+    "entities": [{ "start": 14, "end": 20, "label": "SECTION" }]
+  },
+  {
+    "text": "Does Dr. Miller teach AAS 33?",
+    "entities": [
+      { "start": 5, "end": 14, "label": "PROFESSOR" },
+      { "start": 23, "end": 29, "label": "SECTION" }
+    ]
+  },
+  {
+    "text": "ADV 202 with Professor Miller?",
+    "entities": [
+      { "start": 0, "end": 7, "label": "SECTION" },
+      { "start": 13, "end": 29, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Is AAS 45 offered this year?",
+    "entities": [{ "start": 3, "end": 9, "label": "SECTION" }]
+  },
+  {
+    "text": "Who is the professor for AE 203?",
+    "entities": [{ "start": 27, "end": 33, "label": "SECTION" }]
+  },
+  {
+    "text": "What time is AMS 23 with Dr. Smith?",
+    "entities": [
+      { "start": 13, "end": 19, "label": "SECTION" },
+      { "start": 25, "end": 34, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "I'm trying to register for AFAM 20 next fall.",
+    "entities": [{ "start": 27, "end": 34, "label": "SECTION" }]
+  },
+  {
+    "text": "Do you know when Professor Davis is teaching AE 202?",
+    "entities": [
+      { "start": 19, "end": 35, "label": "PROFESSOR" },
+      { "start": 49, "end": 55, "label": "SECTION" }
+    ]
+  },
+  {
+    "text": "I need the time for AAS 33 this semester.",
+    "entities": [{ "start": 20, "end": 27, "label": "SECTION" }]
+  },
+  {
+    "text": "Can I take ADV 201 with Dr. Nojan?",
+    "entities": [
+      { "start": 11, "end": 18, "label": "SECTION" },
+      { "start": 24, "end": 33, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Is AE 205 offered in the evening?",
+    "entities": [{ "start": 3, "end": 9, "label": "SECTION" }]
+  },
+  {
+    "text": "Professor Williams teaches AAS 101, right?",
+    "entities": [
+      { "start": 0, "end": 18, "label": "PROFESSOR" },
+      { "start": 28, "end": 35, "label": "SECTION" }
+    ]
+  },
+  {
+    "text": "Dr. Miller teaches ADV 123 in fall, correct?",
+    "entities": [
+      { "start": 0, "end": 10, "label": "PROFESSOR" },
+      { "start": 19, "end": 26, "label": "SECTION" }
+    ]
+  },
+  {
+    "text": "Is AAS 10 with Professor Nojan still open?",
+    "entities": [
+      { "start": 3, "end": 10, "label": "SECTION" },
+      { "start": 16, "end": 33, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "What section of AMS 103 does Professor Davis teach?",
+    "entities": [
+      { "start": 16, "end": 23, "label": "SECTION" },
+      { "start": 29, "end": 45, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Do you know the time for KIN 101 with Dr. Jackson?",
+    "entities": [
+      { "start": 24, "end": 31, "label": "SECTION" },
+      { "start": 37, "end": 48, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Is there an evening class for AS 10 next semester?",
+    "entities": [{ "start": 30, "end": 35, "label": "SECTION" }]
+  },
+  {
+    "text": "Does Professor Lee teach ANI 121 this semester?",
+    "entities": [
+      { "start": 5, "end": 20, "label": "PROFESSOR" },
+      { "start": 27, "end": 34, "label": "SECTION" }
+    ]
+  },
+  {
+    "text": "When does ANTH 150 start with Dr. Miller?",
+    "entities": [
+      { "start": 10, "end": 18, "label": "SECTION" },
+      { "start": 30, "end": 40, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "I'd like to register for KIN 202 next fall.",
+    "entities": [{ "start": 26, "end": 33, "label": "SECTION" }]
+  },
+  {
+    "text": "Is AS 105 taught by Professor Johnson still open?",
+    "entities": [
+      { "start": 3, "end": 10, "label": "SECTION" },
+      { "start": 21, "end": 38, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "I need information on ANI 205 with Professor Smith.",
+    "entities": [
+      { "start": 24, "end": 31, "label": "SECTION" },
+      { "start": 37, "end": 53, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Can I enroll in ANTH 202 with Dr. Nojan?",
+    "entities": [
+      { "start": 16, "end": 24, "label": "SECTION" },
+      { "start": 30, "end": 39, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Is KIN 150 still available?",
+    "entities": [{ "start": 3, "end": 10, "label": "SECTION" }]
+  },
+  {
+    "text": "I heard that Dr. Lee is teaching AS 50 this fall.",
+    "entities": [
+      { "start": 12, "end": 19, "label": "PROFESSOR" },
+      { "start": 33, "end": 38, "label": "SECTION" }
+    ]
+  },
+  {
+    "text": "When does KIN 200 with Professor Miller start?",
+    "entities": [
+      { "start": 10, "end": 17, "label": "SECTION" },
+      { "start": 23, "end": 39, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "I need the details for AS 110 this semester.",
+    "entities": [{ "start": 23, "end": 29, "label": "SECTION" }]
+  },
+  {
+    "text": "Does ANI 101 have any open spots?",
+    "entities": [{ "start": 5, "end": 12, "label": "SECTION" }]
+  },
+  {
+    "text": "Can I still join ANTH 303 with Professor Davis?",
+    "entities": [
+      { "start": 16, "end": 24, "label": "SECTION" },
+      { "start": 30, "end": 46, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Is KIN 101 full for this semester?",
+    "entities": [{ "start": 3, "end": 10, "label": "SECTION" }]
+  },
+  {
+    "text": "I'm looking for the professor who teaches AS 10.",
+    "entities": [{ "start": 42, "end": 47, "label": "SECTION" }]
+  },
+  {
+    "text": "Who is the professor for ANI 300?",
+    "entities": [{ "start": 26, "end": 33, "label": "SECTION" }]
+  },
+  {
+    "text": "What time does ANTH 201 start with Dr. Jackson?",
+    "entities": [
+      { "start": 13, "end": 21, "label": "SECTION" },
+      { "start": 32, "end": 43, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Is there any KIN 250 section open?",
+    "entities": [{ "start": 12, "end": 19, "label": "SECTION" }]
+  },
+  {
+    "text": "Can I take AS 50 next spring?",
+    "entities": [{ "start": 11, "end": 17, "label": "SECTION" }]
+  },
+  {
+    "text": "I want to take ANI 201 with Professor Johnson.",
+    "entities": [
+      { "start": 14, "end": 21, "label": "SECTION" },
+      { "start": 27, "end": 44, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Does Professor Davis teach ANTH 202?",
+    "entities": [
+      { "start": 5, "end": 21, "label": "PROFESSOR" },
+      { "start": 28, "end": 35, "label": "SECTION" }
+    ]
+  },
+  {
+    "text": "Is KIN 101 offered in the fall?",
+    "entities": [{ "start": 3, "end": 10, "label": "SECTION" }]
+  },
+  {
+    "text": "Who is teaching AS 112 this semester?",
+    "entities": [{ "start": 16, "end": 22, "label": "SECTION" }]
+  },
+  {
+    "text": "Can I enroll in ANI 302 with Dr. Smith?",
+    "entities": [
+      { "start": 16, "end": 23, "label": "SECTION" },
+      { "start": 29, "end": 37, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "What time is ANTH 150 with Professor Lee?",
+    "entities": [
+      { "start": 13, "end": 21, "label": "SECTION" },
+      { "start": 27, "end": 42, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Do you have the schedule for KIN 305 this fall?",
+    "entities": [{ "start": 28, "end": 35, "label": "SECTION" }]
+  },
+  {
+    "text": "Can I still register for AS 230?",
+    "entities": [{ "start": 27, "end": 33, "label": "SECTION" }]
+  },
+  {
+    "text": "Who is the professor teaching ANI 310?",
+    "entities": [{ "start": 34, "end": 41, "label": "SECTION" }]
+  },
+  {
+    "text": "Is ANTH 100 full this semester?",
+    "entities": [{ "start": 3, "end": 11, "label": "SECTION" }]
+  },
+  {
+    "text": "When does KIN 402 with Professor Jackson start?",
+    "entities": [
+      { "start": 10, "end": 17, "label": "SECTION" },
+      { "start": 23, "end": 41, "label": "PROFESSOR" }
+    ]
+  },
+  {
+    "text": "Does AS 202 still have open seats?",
+    "entities": [{ "start": 5, "end": 11, "label": "SECTION" }]
+  },
+  {
+    "text": "Who teaches ANI 450 this fall?",
+    "entities": [{ "start": 12, "end": 19, "label": "SECTION" }]
+  },
+  {
+    "text": "Is there a morning section for ANTH 305?",
+    "entities": [{ "start": 31, "end": 39, "label": "SECTION" }]
+  },
+  {
+    "text": "I'm interested in KIN 500 with Dr. Miller.",
+    "entities": [
+      { "start": 18, "end": 25, "label": "SECTION" },
+      { "start": 31, "end": 41, "label": "PROFESSOR" }
+    ]
+  },    
+  {
+    "text": "Is AS 315 offered next semester?",
+    "entities": [{ "start": 3, "end": 9, "label": "SECTION" }]
+  }
+]

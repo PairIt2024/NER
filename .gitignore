@@ -1,0 +1,29 @@
+# Ignore the .env file (for environment variables)
+.env
+
+# Ignore virtual environment folder
+env/
+venv/
+
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore logs
+*.log
+
+# Ignore IDE/editor-specific files (e.g., VSCode, JetBrains)
+.vscode/
+.idea/
+
+# Ignore MongoDB dump files
+dump/
+
+# Ignore temporary files created by the editor
+*.swp

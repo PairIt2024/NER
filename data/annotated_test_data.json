@@ -1,0 +1,37 @@
+[
+    {
+        "text": "CS 46B is taught by Professor Smith in Section 1.",
+        "entities": [
+            {"start": 0, "end": 6, "label": "SECTION"},
+            {"start": 22, "end": 37, "label": "PROFESSOR"}
+        ]
+    },
+    {
+        "text": "Math 101 is held by Professor Johnson in Section 2.",
+        "entities": [
+            {"start": 0, "end": 8, "label": "SECTION"},
+            {"start": 21, "end": 38, "label": "PROFESSOR"}
+        ]
+    },
+    {
+        "text": "Professor Garcia will be teaching Section 3 for Physics 205.",
+        "entities": [
+            {"start": 0, "end": 16, "label": "PROFESSOR"},
+            {"start": 37, "end": 45, "label": "SECTION"}
+        ]
+    },
+    {
+        "text": "Dr. Thompson will take Section 4 for Chemistry 101.",
+        "entities": [
+            {"start": 0, "end": 12, "label": "PROFESSOR"},
+            {"start": 28, "end": 36, "label": "SECTION"}
+        ]
+    },
+    {
+        "text": "Section 5 is for Biology 202 and is led by Professor Martinez.",
+        "entities": [
+            {"start": 0, "end": 9, "label": "SECTION"},
+            {"start": 42, "end": 60, "label": "PROFESSOR"}
+        ]
+    }
+]
